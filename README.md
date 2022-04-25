@@ -1,5 +1,5 @@
 # Elevation
-In this project i covered topics Elevation + cardCornerRadius(Android-Studio) for giving shadow.
+In this project i covered topics Elevation + cardCornerRadius(Android-Studio) for giving shadow on CardView.
 
 use this for study purpose
 
